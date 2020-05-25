@@ -1,6 +1,6 @@
 <?php
 
-/* Dev PHP 7.1
+/*
 Cette application est un blog simple avec un front qui permet la lecture d'article et la possibilité de commenter les articles
 ainsi que le signalement de commentaires.
 Elle dispose d'un back-office qui permet l'administration des articles (CRUD) et la modération des commentaires signalés.
