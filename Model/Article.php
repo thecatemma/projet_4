@@ -10,4 +10,9 @@ class Article
     protected $_dateModification;
     protected $_comments;
 
+    public function __construct(array $data)
+    {
+        $this->hydrate($data)
+    }
+
 }
