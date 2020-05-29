@@ -14,7 +14,7 @@
 <body>
         <ul id="nav">
 			<li><a href="index.php">Home</a>
-			<li><a href="article.php?id=1">Livre</a>
+			<li><a href="article.php">Livre</a>
 			<li><a href="biography.php">Biographie</a>
 			<li><a href="index.php?action=connexion">Admin</a>
 	    </ul>
