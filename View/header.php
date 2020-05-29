@@ -18,6 +18,10 @@
 			<li><a href="biography.php">Biographie</a>
 			<li><a href="index.php?action=connexion">Admin</a>
 	    </ul>
+
+        <header>
+        </header>
+
 </body>
 
 </html>
