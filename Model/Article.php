@@ -10,11 +10,13 @@ class Article
     protected $_dateModification;
     protected $_comments;
 
+    // CONSTRUCTEUR
     public function __construct(array $data)
     {
         $this->hydrate($data)
     }
 
+    // HYDRATATION
     public function hydrate(array $data)
     {
       foreach ($data as $key => $value)
@@ -27,5 +29,7 @@ class Article
         }
       }
     }
+
+    // SETTERS
 
 }
